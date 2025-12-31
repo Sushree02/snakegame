@@ -43,9 +43,7 @@ JavaScript – Game logic
 Just open the index.html file in your browser.
 
 ## 🔗 Live Demo
- https://sushree02.github.io/snakegame/
-🚀 **Deployed Application:**  
-👉 
-Add a Live Demo section
 
-Customize it for resume / portfolio use 🚀
+🚀 **Deployed Application:**  
+👉  https://sushree02.github.io/snakegame/
+
